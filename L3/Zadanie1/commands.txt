@@ -1,0 +1,1 @@
+./randg 50 | xargs -n50 ./select k
